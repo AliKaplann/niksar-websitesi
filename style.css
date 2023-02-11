@@ -1,0 +1,52 @@
+body{
+    background-image: url(resim/projefoto.jpg);
+}
+.navbar{
+    background-color: #0D4DA4;
+    color: white;
+}
+a{
+    color: white;
+}
+    
+.anasayfa:hover{
+    background-color: #74a5f0;
+    color: white;
+    cursor: pointer;
+}
+.koyler:hover{
+    background-color: #74a5f0;
+    color: white;
+    cursor: pointer;
+}
+.tarihce:hover{
+    background-color: #74a5f0;
+    color: white;
+    cursor: pointer;
+}
+.iletisim:hover{
+    background-color: #74a5f0;
+    color: white;
+    cursor: pointer;
+}
+
+.navbar td{
+    width: 200;
+}
+.container{
+    display: flex;
+}
+ul{
+    list-style-type: none;
+    color: black;
+}
+.koy a{
+    color: black;
+}
+h1{
+color: #0D4DA4;
+}
+textarea{
+    width: 280px;
+    height: 99px;
+}
